@@ -66,7 +66,7 @@
             android:text="@string/not_prime"
             android:id="@+id/resultTextView"
             android:layout_gravity="center_horizontal"
-            android:textSize="35sp" />
+            android:textSize="85sp" />
 
         <Space
             android:layout_width="0dp"
